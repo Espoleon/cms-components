@@ -1,9 +1,12 @@
 # cms-components
-A collection of diffferent classes
+A collection of diffferent php classes
 
-**memory.php**
+<details><summary>memory.php</summary>
 
+Description
+```
 A class to get informations about script memory usage
+```
 
 Properties (2)
 ```php
@@ -26,3 +29,4 @@ public function limitWithUnit() { ... };
 public function inUse() { ... };
 public function inUseWithUnit() { ... };
 ```
+</details>
