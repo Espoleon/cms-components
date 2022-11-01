@@ -1,7 +1,7 @@
 # cms-components
 A collection of diffferent classes
 
->**memory.php**
+**memory.php**
 
 A class to get informations about script memory usage
 
@@ -11,8 +11,10 @@ public int $rounded = 2;
 public string $unit = 'MB';
 ```
 
-Methods (10)
+Methods (12)
 ```php
+private function divided() { ... };
+private function unit() { ... };
 public function usage() { ... };
 public function usageWithUnit() { ... };
 public function peak() { ... };
