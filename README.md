@@ -5,13 +5,13 @@ A collection of diffferent classes
 
 A class to get informations about script memory usage
 
-Properties
+Properties (2)
 ```php
 public int $rounded = 2;
 public string $unit = 'MB';
 ```
 
-Methods
+Methods (10)
 ```php
 public function usage() { ... };
 public function usageWithUnit() { ... };
