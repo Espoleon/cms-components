@@ -1,4 +1,4 @@
-# cms-components
+# php-classes
 A collection of diffferent php classes
 
 <details><summary>memory.php</summary>
